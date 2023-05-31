@@ -1,7 +1,7 @@
 // typing vars
-var messageArray = ["Alexandra Hernandez", "About Me", "Experience", "Education", "Projects", "Contact Me"]; // title texts that will be typed out on the pages
-var querySelector = ["#title", "#about-me-title", "#experience-title", "#education-title", "#projects-title", "#contact-title"]; // IDs for the texts that will be typed out
-var urls = ["index.html", "about.html", "experience.html", "education.html", "projects.html", "contact.html"]; // page urls of the IDs (location)
+var messageArray = ["About Me", "Experience", "Education", "Projects", "Contact Me"]; // title texts that will be typed out on the pages
+var querySelector = ["#about-me-title", "#experience-title", "#education-title", "#projects-title", "#contact-title"]; // IDs for the texts that will be typed out
+var urls = ["about.html", "experience.html", "education.html", "projects.html", "contact.html"]; // page urls of the IDs (location)
 var textPosition = 0; 
 var speed = 100;
 var querySelectorNum = 0; // manages which querySelector is accessed (indexed)
