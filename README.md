@@ -20,6 +20,8 @@ Also usual credits to Googling things from websites like:
 
 ## contact
 Check out my handles!
+
 **GitHub**: [@alexavndra](https://github.com/alexavndra)
+
 **LinkedIn**: [@alexavndrarh](https://linkedin.com/in/alexavndrarh)
 
