@@ -202,6 +202,9 @@ nav ul li {
 }
 
 /* about me page */
+.bio {
+    padding-top: 1.7rem;
+}
 .bio p {
     padding-bottom: 1rem;
     font-size: 1.15rem;
