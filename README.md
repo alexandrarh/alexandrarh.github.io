@@ -19,7 +19,6 @@ Also usual credits to Googling things from websites like:
  - StackEdit.io (for helping write this README)
 
 ## Contact
-Check out my handles!
 
 **LinkedIn**: [@alexavndrarh](https://linkedin.com/in/alexavndrarh)
 
