@@ -1,5 +1,5 @@
 ﻿# alexavndra.github.io
-Thanks so much by stopping by my website–I really appreciate it!
+Thanks so much by stopping by my website–I really appreciate it :D!
 
 *This website is always maintained, and I try to update it as much as I can, so bear with me as I navigate these changes :)*
 
